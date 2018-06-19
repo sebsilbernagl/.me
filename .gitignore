@@ -1,0 +1,10 @@
+node_modules
+
+# Ignore all files named .DS_Store or ending with .log
+**/.DS_Store
+**.log
+**.md
+**.sass
+LICENSE.txt
+sass
+
